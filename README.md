@@ -34,5 +34,4 @@ Hi, I'm Mualla
 ##  Let's Connect
 linkdin: (https://www.linkedin.com/in/syeda-mualla-b539352b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 email: syedamualla@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- ✉️ Email: your.email@example.com  
+
